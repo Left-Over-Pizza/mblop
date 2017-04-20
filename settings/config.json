@@ -1,13 +1,13 @@
 {
-    "my_id" : "",
-    "token" : "",
-    "google_api_key" : "",
-    "custom_search_engine" : "",
-    "mal_username" : "",
-    "mal_password" : "",
+    "my_id" : "286631472532815873" ,
+    "token" : "Mjg2NjMxNDcyNTMyODE1ODcz.C7HdCw.18VP8nE5i8qVcW9ep8lLXN9FEGA",
+    "google_api_key" : "AIzaSyCeR9Pch3TJkDTdPfgO19r93LfZrfumAI8",
+    "custom_search_engine" : "000219163170191376359:uwohsxqmqku",
+    "mal_username" : "LeftOverPizza",
+    "mal_password" : "Kawangware254",
     "set_afk" : "off",
     "afk_message" : "",
-    "cmd_prefix": ">",
+    "cmd_prefix": "-",
     "customcmd_prefix": ".",
-    "bot_identifier": ":robot:"
+    "bot_identifier": ":pizza:"
 }
